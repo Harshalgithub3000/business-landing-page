@@ -1,6 +1,6 @@
 # Modern Business Landing Page
 
-![modern-business-landing-page](/src/assets/react-busines-landing-page.png)
+Live-demo : https://business-landingpageweb.netlify.app/
 
 A sleek and responsive landing page built with React, Tailwind CSS, and Framer Motion animations.
 
@@ -82,4 +82,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 
 
-# business-landing-page
